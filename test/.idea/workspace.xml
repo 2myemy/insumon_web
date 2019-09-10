@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4cd9d0f-ccd2-494f-99a0-a3f75120ddaa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/about.16629c02.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/app.51609c67.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/chunk-vendors.ef6a5a38.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/Iphone2.41d0367a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/about.a35852dc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/about.a35852dc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.eddec36f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/app.eddec36f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/chunk-vendors.292c7e1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/chunk-vendors.292c7e1c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/00fff05bc29c76dae0cba233992636b7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/00fff05bc29c76dae0cba233992636b7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/05e845641955c590993d0c8e24584fde.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/05e845641955c590993d0c8e24584fde.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/18a3b71f03822ede73b8b7b5269f58ad.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/23f21fb312556b1bffb07d46f718234e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/23f21fb312556b1bffb07d46f718234e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3b6b7885e007e7ef572365dbc6bf30ed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/540c37508cbfdecbb774ac58dc99625d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5cf4634e820e7ef89c24f94a1dded79c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/65375e2acd2cd23ee1689e453e9df460.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/65375e2acd2cd23ee1689e453e9df460.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8b3d008bdbf83dbef0d851d3d019470f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8b3d008bdbf83dbef0d851d3d019470f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9d51dfe02f8577d2fdfefa2998752484.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9d51dfe02f8577d2fdfefa2998752484.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b63b2cf0d96f590d3554ac13521c068d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b63b2cf0d96f590d3554ac13521c068d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bba8256eedff32589472b5c29c371849.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ebb4008771ad01b46a2739294f9a14b2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fca93c2bc35695c28d41be379e1a38ac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/007635dfe27ffe17ccc720283517a751e1fee364.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/00f20b5774c359a684f6b066d1457600c7df0e81.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/033247ac921cf5a1f01ec253d56d4a77f0eeb49e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/03a4425824b220694d3ce1a662dbc4ca72a201ad.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/044ef183f2ded5c07934ff240b0ef7cee5314f30.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/0662e239ab7b7779e819ce6cb64690e12c598e4f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/099269ad93533f06f92efbb2180c7731f8494528.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/0a007330ac1299ab45a49958a1af61b6d206ccbc.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/10eb3d109b01c911b6123e0bad496aac060a068e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/1257a575c5a1e3b3865fc85a777170e44dadd8f9.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/15b3d34c96fcc41b971e3ad4cc58a9b66531e09b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/173d2e176ad4270ca37473847d20d0aa1fcf920c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/186e4686a8c675ae897be058c22de70efaf38b92.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/1ec7694ed42c33b4b3362cd3b1865051ad532709.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/1f472b88b1b97a04843508a4f32e69bf2646ecc6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/1f698a88703d62af5491da2748f47e98d00326e7.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/1f9b249a455046af65bb34c554631752d26270a6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/2084c0c115e60a548150acf7da6a3f0889ea188b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/21903944565ab906c6cf0a0c75fc704372911af5.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/222fdc7017f3d465a1215f35359cb8a1f158bae6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/22f05b87c4f07bf7e361a60425e0c40e30562bd0.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/23ae83177915fb9bd64ef654d976bbfd82f2c89c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/252c2bb88bcedf8cbb4910419c5e1fde84ab91f2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/2690da26238d45eb6386c2b0787739d41f1d954a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/26bcc6d21cb4e59ab9f2f219e6d6a251d58e1a1a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/2933228e6e370ed76029e1e346f040850029ab49.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/2cde0607a670f3b398c95a56a57cb2dbada5902d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/3160e064e00e4ee298a15ce5896eaf868c02e4cb.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/316c2f15401192ea00140ca5e0d0f651fcea4e98.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/319c7f2ba8c3843af969fa682c2eff439fe09a0c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/31b8d8350316fd2b8a8a9b9cd4805d39865b25de.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/3263daa35e113d4382970ff8fcc9b9ce7653d26f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/34b26d917d33f1929ad1f3e3b83d2e573bfb0f3f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/35fe8a9ff84bad0b3a33ec522caabeebbb0b7a9e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/3948a0fc860bb6892ad78dd406287927a991affc.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/39ae3a1fff39f06423cf0874a4f23131853a84b7.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/3b230d3f1e0f4b4091b3fc5f6f5cf90c6190fa71.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/3c0edec68c3620abde0ed66351a5a1ddda4901ed.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/3c953cb90efa2a1447479eb60294e5154c731d49.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/3fbc7761ca8ccb994f278e3855f051ec3d92a0a2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/40d4dd934bc893bd52a46b9abe3c6bb350c36e7d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/40ef2e9ce64730875f962a01db3ae4dd45d9d393.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/435b3ffec0dac9a53cd3c5c181e92c943ed9078e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/4378aa5cbcd9ec946253765ad708fa2ac5e2d187.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/4384084d20ebbd4fc3a321f194f8deef8334bd0d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/43f1c4d099ca92fc5ceb56653272b8224167b1a4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/4674a57d25445f116b4c964f3c50be36a649e470.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/47368978d5d5eff78a2c86e45bc555877b79d8b5.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/490e37f9b49f316c1276460784db5add1ad4e791.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/499916679406fc36c1464953a53cea339d71c077.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/4ac53a6be164b85caee186d5131cd6b66326f1c8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/4ae81a5de0c265eb2841122a7de727806bbc95f3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/4d482d925e0e6624b570f57e388b87c60a77c07c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/4ea53bd25f205c68afb42c088748942d8fd10cb1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/50df9e7035f549e6cc57f5361e2b68e14f7fd261.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/5117d583f5fa597ffb99d87990ad5948312e8cee.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/51b62eac2f8a3e8f0d59f32cddaf1101d9511236.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/5328d28cdd1db35183e8014a212b9ff24feca514.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/54266ae5faf6d323f85a2df3b060843ad79208bc.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/55625fcc38d4605e27a4cb2b23551938443f6ac0.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/55e1ea839064874260ae5bf7713d5c61997a212b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/5888d9bac998a2f27c3c14871e2d03d1cbf32a87.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/5a8009423af97f699c9fb266b80fd35aa34fb06d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/5bfc229d857610e75ee8355fb96d180fc20e12eb.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/5e2134a4f62bb3b77dafaef3b2296b3e9f6568d8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/5f58dc376c1073438f99efed803c44dcee53b76e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/5fef382ffbcbb23332d35061ece783821a9f72bd.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/621735310568d8aca1c773843f1ab110b255ab19.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/689d5e28ce016968203841725c4f13dc84c5d138.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/697bdf74491bf649215f151e11ee219266ba1faf.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/6f0eb09acfeeb7884bf19b1efc67f160a27495c6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/6fa2a8443c294f07fb46b44dd4001732c4a1ee37.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/6fb6d9139d76db6b682178933f135ab231b88ab4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/7041d48a503f4e0681f0fbc5ef28e7020733104e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/7078bda21146aebbe57ea3d4c77ce6c6a24ceede.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/7156f6069b60d597763508f4a5714ce2e08539b9.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/719af22a1e4f7b8d32df1ff12d8c4c3838383725.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/71aad2bdc713386bcb49c3de5ca8bceac6000fe5.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/7282fe7c8a7be3df4f7e5c70859b56a710d4da8f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/73cd1393d62b6be72d566104933da8b23d2bdc37.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/75bfca058f7e3c43d7d48575d3e55ff6f4e5428e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/816478f47b7d68427a0db8521c1959ddb9cf7b2b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/831f0ac00c805880975cb043bd0d15fd6d08753f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/851e5de6e10487a1eeb14d858d5bf8e5231c3111.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/85a6502fa63beb61e7b627b4d3b5be9f7e4d9018.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/8a05ad27e93d5de8aafcb5fea3dcbffb2ec7005d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/8ad58b6d139e4f85c4d6018432f6894dd057e8b0.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/8af661f4c142d9e8d3abd6478b085d9fe97707ad.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/8be358a0f3599439cc66e7bffc0bc1bbdc0b71ca.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/8dd583d7c8e5ef34780079e1f94d0d9a6bc1ecb1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/8ee84607e6fd0cbf8fa5f1f088866717c3e8d214.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/8fd01ae14b45192d5e8f6fd9ca8d2fa81c1b4a31.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/8fefc105fea5f209d046787aca878dd7f47047f6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/8ffd405909d30b55c2ef09ac661badd2024fcf54.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/91a23cef853f4c23f8d16db32b9437c3569d74f9.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/953bd14ec754d2ae4bed5162ecbe42181f9cbf12.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/95a13bf73a47ad5ebbfc5ec91fee6a4197d98892.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/96a94cf43f34f628f2db87f176833f2546078e78.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/977026ab994eb0cffc6433d7efd8582d5c72ac00.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/977d7f0ce452240c6b5e93b07c6990eef092c5ed.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9ab30da0a8dd9452235db62b9b016fb8c2543621.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9ada72c86f4cfa8110db918611e9a2dfb09b7d8c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9b51eceb6f6f62f51096433120fc226fed3e44a1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9b6787055fd504cec1e3f0d60cef609181cbd814.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9c86a53f45995785c2a733a3263bfbe6612e167f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9cf9e97ccbe7baecd7e1093bd094029096325f5a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9d6b1e50aa58b2d371654c4ab95f6dc4cabab0ce.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9d794380d6158c2679f557216c6393867fb1d66d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9e43036374e7b927b5ec8e981042bf9b7ea362f4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9eaddb3063e2b0dfb593eb6c18c5cb7ede78b40d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9f3377771df30b5150b065d0ca6cf483212ff7c1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/9f482bf99eb7c5b236306d6b7ce6b10a2e948a8c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/a5741c28ec292e31e3d6e5d331dcaed697dbfd57.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/a640bfadd660956a2eff4ee233e58a8dacb9f6bb.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/a904655e7ed9c36285163a87456c3caa7687eb2a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/a970fb0d42730b82d9c6eec7f91600d9ae605149.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/a9fc71482d3e3218a5cdd75798b83c3fed161062.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/aa88ee5bc29704992cdc310a76b24f8aa8d7557a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/ac511e7f9d821631ccef4195691cef7460d16c66.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/acc4145fced0c942a5e68c141325ad1f90bd63d7.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/af148bea34263e780369458db0eea8a44a5d1077.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/b037db23928b5d6bde2f0af297dbd409caf9b2ae.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/b070a6b710e3981092523deac6f55683a9d83eed.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/b2dd020cafc14df9bf40f9b8f638bdcc12f844c6.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/b454792bcfcb78e53a9f81d384ec293a9068a16a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/b7cfef289fd59f03cd3890b2e1e23d75512804fa.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/b7fa507df400b8d9c2147e54d34e122180fe53cd.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/b803742111f87e0ce1c10b297b98c42118ec9c1c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/b9eb633a8380ee917674ad61e3957e42e5672f22.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/ba12a57c0d6fa0ef29f24c8097f0db9514a9ec58.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/be5e0738cb4a641e8de175ea1e3953402d263005.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/be7e956acabdc5b35ee6d993c692fa4c2263eca3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/bf79068db534d70f042c8148a5d3f86dcbaa0cf4.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/c31188fae78feeeb5a4bc33849d6bc99406b530b.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/c3e58eda71fe93dc5b5ac0aca1403712981b2a18.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/c5bbe0dbe5bc31e5dbbe791f45c726fa59c6d4d2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/ca950f203e0070393e6305e645e3c1bc63cdcc5c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/cebe23ed34b9b0af8cd9dc2ca38664f182fffc56.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/cfbea2ced6e447af9e065c847d8a504942ff2d3d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d01d7186cc9fefe760d0ece13bfd89e888eac684.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d2fcb2d78cbbf3e1d2b593020d306a1624c96b8d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d445ec87247705c4297e1b1ef6b79f395b6a62aa.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d870b61ac5fe1a9d5753c3e2f300143db111ebe7.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d898d30ff1fafe77e2f146285ccfdba6243ecb07.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d91aa710194a101ac501fdb9ce1d5e78892ecbc2.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d929ffb2dd61d9d49adf881b5d6d4813cf7933c9.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d98bd773a8548d74fd7ca8c4bd6dda7cab70a238.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/d9b3ac36b5900b2cbd3f8dcdf1a125476020dab1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/db5f8e67f29887aa323a494d7b1033aab9785c6a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/dce378e4e33c92d0adca3b2dcaa4dbc1f7bc3a0a.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/dd36c7906f3547c1f53cb45a7f59bb2b97bfcbb7.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/dea469e1fb709580d81a25e62a764e59971d8b59.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/e24aea72687823fc173ec24b1c94f5eba5a8e50e.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/e5f21888a4ba79ecc031233aab721f836164aefe.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/e7f542a64d69591b82201039c5e4f8d43b845387.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/e8973707e7946e72a7901bddde8f7799226902ab.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/e8bc7ec974c150d554e1979c578765f7be7bb080.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/ec2dcebdda08c4e575308ea7a7e6c55cc1316933.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/ed1397a8c652eb319f162980d72993021d8f8f3d.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/ee8866c8d1fa84302625dc1e48038f444c9949f1.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/f1087e894f07593c58967abc4a5c0eb0737db817.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/f33cbd0d1d64376181a4b9c636200ce6798fe6c8.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/f35c95b473f107acf9d3b2b95cb09bdb002ec1f3.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/f45d2f15299241056123af3012810ec818cb28d0.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/f482ea14c20606828734ec527a3b3dfb73591c16.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/f7085f5af167476e151fec1f37d2b98ecdb2dc64.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/f89a45e059ecbdfc359a58d35cd54571f15f0b2f.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/f9dff6858d4e653280bcfeb0917d7f67b722f21c.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint-loader/ff8bd20559829fcdfa85241c444c0fde2ebd60ec.json.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/03/70/ebcfe78080c8aa9d1475fb92d3b453ba79f3e250afa8282142c3a93b868f709b61d1fbdeea584e5cecbfd876b12a2ebca530df33b7cf8bcd333f9ff3e8d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/90/2d/3ffa965822559ee36561bfeb7b0da1b85285513a0a20fbac941036d71a77ecbf1403684b01939cb82046f0b9f0008149cee1e2f23f63cbf168a4584836b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/fa/d0/6dafa63f78aa952f41dc1d21704aee4f9ff8130b8be1aad137485e2d2bb89b20d2c62b0762695a9620efbf6dee322332e3e1922907cf328bfd7bc5c1d9b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/25/b7/3e305fd22f2f06b109aa2c0915e0a959b58185b4ad7539181272461c697c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/98/73/3f090b0985ffe4170b0e261007539a428dd01c026e2f89c3f2c227d2a5ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/e1/3d/4460959cdba2202ce493f1f2644b638c1dd916ea5b634f40ad4ef6c191df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/006a694ad88f28c358179d4f6f9f91d5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/00a643fef9a080f4eff3d999f4533f5d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0de4b954b78dfffff59f88973a721d8d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0e004fe2485f1f98326f699f0efcd8b1.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/0e004fe2485f1f98326f699f0efcd8b1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/16f4fd23302196dd5097c844c3ac197e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1dd8209448d78e3892d55fb79eaaefb0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/1dd8209448d78e3892d55fb79eaaefb0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/209e25b88c0a91fa734926a8a7ebdb8a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/260d5ae05fa7b392930e0b6abaa9aa8f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2accb049d924515d907b6eed0f4942ed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2e7814f22e16b74bd6255937fcf25c7a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/42751cb8f519b0cf7c3979dd2f03a5c7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5a82ae7c4252414f760f82a65026f38a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5b14660c68e1341856cb33889042d5ee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5d9b68e35db16a605ed74726cc234f23.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5d9b68e35db16a605ed74726cc234f23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/79adb22a07ed48e43bfaeffc270db277.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7b5b544fec8cc0b93ad94f1908792361.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7c5999dc5467b00fed6f244c39b85e33.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/7c5999dc5467b00fed6f244c39b85e33.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/928134b2cc7ad5f2dbdec12503c14b18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/93de2263a82310f8f384b3d279e8b714.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/94631da3657c8ba36de3c8db9b46420b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9576eaf54ba9d9862a29e966adfa301c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9576eaf54ba9d9862a29e966adfa301c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9cba50b4560aa17c40f727dd3ed9f545.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a16179c049a36f0003751e69a1cde258.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a877398b6bd18cb9db3a88f4b181b839.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a877398b6bd18cb9db3a88f4b181b839.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a9482e49892c561f82eae55ef04683d0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ab036207e277b6ea03df24e089335a9d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ae57e34c6f54ffe4621df92ae1483f13.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ae57e34c6f54ffe4621df92ae1483f13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b55a1f21da893cafd023d1f31b47e490.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b55a1f21da893cafd023d1f31b47e490.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b676c08f7449158942dea488072736a7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b6d54fc4b7a1c9c77ddad091a4f079fe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b7c10456bc6efded4bbfb115cad1ddea.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/bd3980074aa134f5041e27304aee1342.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/bd3980074aa134f5041e27304aee1342.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c468ee2c4728a3e9bff8ddf8db11e21c.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/c468ee2c4728a3e9bff8ddf8db11e21c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/cdb33bda2294b3b5d41408f5731d21e1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e254705c4a0d46c055749cc24ce276b1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e564d841b22cba32422bdc75db0d5e33.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ea6be9583d10d501715ff4e000472cd9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ecfe9f477fcc7408641d4e26de212779.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/ed2cfae43e3d9018651798e547c63a92.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f0d6cbca545bf376d3cc699abf76cff7.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f0d6cbca545bf376d3cc699abf76cff7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/AboutTeam.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/AboutTeam.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ComingSoon.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/ComingSoon.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/About.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/AboutTeam.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="109" column="58" selection-start-line="109" selection-start-column="58" selection-end-line="109" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#v-toolbar#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#1;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#v-btn#1;n#v-layout#0;n#div#2;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#2;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#1;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#2;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#1;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#2;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#1;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#2;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/ComingSoon.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/insumon_background.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+      <find>NAME</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/views/ComingSoon.vue" />
+        <option value="$PROJECT_DIR$/src/router.js" />
+        <option value="$PROJECT_DIR$/src/views/Home.vue" />
+        <option value="$PROJECT_DIR$/src/views/About.vue" />
+        <option value="$PROJECT_DIR$/src/views/AboutTeam.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2604" />
+    <option name="y" value="210" />
+    <option name="width" value="1685" />
+    <option name="height" value="1079" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4cd9d0f-ccd2-494f-99a0-a3f75120ddaa" name="Default Changelist" comment="" />
+      <created>1561024207458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561024207458</updated>
+      <workItem from="1561024208552" duration="3707000" />
+      <workItem from="1561100549867" duration="60000" />
+      <workItem from="1561504017216" duration="1433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5200000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2604" y="210" width="1685" height="1079" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2556437" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.34210527" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/ComingSoon.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/insumon_background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/About.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#1;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#v-btn#1;n#v-layout#0;n#div#2;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#v-content#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#1;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#v-content#2;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#1;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#v-content#3;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#1;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#v-content#4;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/AboutTeam.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="109" column="58" selection-start-line="109" selection-start-column="58" selection-end-line="109" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#v-toolbar#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
